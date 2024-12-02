@@ -9,11 +9,6 @@ This model can save a lot of customers time by summarizing the whole bunch of
 reviews and displaying them in form of plots so that the customer can make
 better purchase decision.
 
-
-## Blog Link:
-
-https://saurabh-bairagi.medium.com/summarizing-product-reviews-into-dashboard-ff7ead416228
-
 ## Demo
 
 **Paste the URL in the below model and enter the starting page number (i:e 1) and also 
